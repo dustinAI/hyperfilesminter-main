@@ -1,0 +1,19 @@
+{
+  "name": "hypertokens-cli",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.js",
+  "pear": {
+    "name": "hypertokens-cli",
+    "type": "terminal",
+    "gui": {
+      "backgroundColor": "#1F2430",
+      "height": "540",
+      "width": "720"
+    }
+  },
+  "dependencies": {
+    "trac-msb": "^0.1.79",
+    "trac-peer": "^0.1.98"
+  }
+}
