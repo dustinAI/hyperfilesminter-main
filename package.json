@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "trac-msb": "^0.1.79",
-    "trac-peer": "^0.1.98"
+    "trac-msb": "0.1.82",
+    "trac-peer": "0.2.5"
   }
 }
