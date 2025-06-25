@@ -15,7 +15,7 @@ https://fracpnk.xyz/                the firs collection in TRK network
 
 ```bash
 git clone https://github.com/dustinAI/hyperfilesminter-main.git
-cd hyperfilesminter
+cd hyperfilesminter-main
 npm install -g pear
 npm install
 pear run . store1
